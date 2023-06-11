@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FinalOdeviShoppingApp1",
+    "\\FinalOdeviShoppingApp1\\Areas",
+    "\\FinalOdeviShoppingApp1\\Areas\\Identity",
+    "\\FinalOdeviShoppingApp1\\Areas\\Identity\\Pages",
+    "\\FinalOdeviShoppingApp1\\Areas\\Identity\\Pages\\Account",
+    "\\FinalOdeviShoppingApp1\\Areas\\Identity\\Pages\\Account\\Manage",
+    "\\FinalOdeviShoppingApp1\\Views",
+    "\\FinalOdeviShoppingApp1\\Views\\Shared"
+  ],
+  "SelectedNode": "\\FinalOdeviShoppingApp1\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FinalOdeviShoppingApp1.props" />
+</Project>

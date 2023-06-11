@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FinalOdeviShoppingApp1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalOdeviShoppingApp1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\css\\bootstrap.min1.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min1.css"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\1984.jpg",
+      "PackagePath": "staticwebassets\\images\\1984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\bin_gunes.png",
+      "PackagePath": "staticwebassets\\images\\bin_gunes.png"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\blade_runner.jpg",
+      "PackagePath": "staticwebassets\\images\\blade_runner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\bulbul.jpg",
+      "PackagePath": "staticwebassets\\images\\bulbul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\davinci.jpg",
+      "PackagePath": "staticwebassets\\images\\davinci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\define-adasi.png",
+      "PackagePath": "staticwebassets\\images\\define-adasi.png"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\dracula.jpg",
+      "PackagePath": "staticwebassets\\images\\dracula.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\dune.jpg",
+      "PackagePath": "staticwebassets\\images\\dune.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\frank.jpg",
+      "PackagePath": "staticwebassets\\images\\frank.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\hayalet.jpg",
+      "PackagePath": "staticwebassets\\images\\hayalet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\indiana_jones.png",
+      "PackagePath": "staticwebassets\\images\\indiana_jones.png"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\kayip_dunya.jpg",
+      "PackagePath": "staticwebassets\\images\\kayip_dunya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\kuzu.png",
+      "PackagePath": "staticwebassets\\images\\kuzu.png"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\robinson.jpg",
+      "PackagePath": "staticwebassets\\images\\robinson.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\sissoylu.jpg",
+      "PackagePath": "staticwebassets\\images\\sissoylu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\suc.jpg",
+      "PackagePath": "staticwebassets\\images\\suc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\ulysses.jpg",
+      "PackagePath": "staticwebassets\\images\\ulysses.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\yildiz.jpg",
+      "PackagePath": "staticwebassets\\images\\yildiz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\yuzuk.jfif",
+      "PackagePath": "staticwebassets\\images\\yuzuk.jfif"
+    },
+    {
+      "Id": "C:\\Users\\kilic\\source\\repos\\FinalOdeviShoppingApp1\\FinalOdeviShoppingApp1\\wwwroot\\images\\yuzuk.jpg",
+      "PackagePath": "staticwebassets\\images\\yuzuk.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FinalOdeviShoppingApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FinalOdeviShoppingApp1.props",
+      "PackagePath": "build\\FinalOdeviShoppingApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalOdeviShoppingApp1.props",
+      "PackagePath": "buildMultiTargeting\\FinalOdeviShoppingApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FinalOdeviShoppingApp1.props",
+      "PackagePath": "buildTransitive\\FinalOdeviShoppingApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
